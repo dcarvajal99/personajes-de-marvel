@@ -1,1 +1,2 @@
-Mañana 02-02-2023 se sube video explicativo
+# video explicativo
+https://youtu.be/oxQ-kYuQSqs
